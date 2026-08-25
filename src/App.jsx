@@ -1,5 +1,5 @@
 import React from 'react'
-import ContactSection from './Components/contact'
+/*import ContactSection from './Components/contact'*/
 import Footer from './Components/footer'
 import FacilitiesSection from './Components/services'
 import AppSection from './Components/our-home'
@@ -20,7 +20,7 @@ function App() {
     <About />
     <AppSection />
     <FacilitiesSection />
-    < ContactSection />
+    /*< ContactSection />*/
     <Footer />
     </>
   )
