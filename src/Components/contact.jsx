@@ -1,4 +1,4 @@
-/*import React, { useRef } from "react";
+import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
 import { FaPaperPlane, FaPhoneAlt } from "react-icons/fa";
 import { MdEmail, MdLocationOn, MdAccessTime,} from "react-icons/md";
@@ -120,4 +120,4 @@ function ContactSection() {
   );
 }
 
-export default ContactSection;*/
+export default ContactSection;
