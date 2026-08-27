@@ -20,7 +20,7 @@ function App() {
     <About />
     <AppSection />
     <FacilitiesSection />
-    <Contact />
+    <ContactSection />
     <Footer />
     </>
   )
